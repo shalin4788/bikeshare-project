@@ -14,14 +14,14 @@ Install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python di
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `bikeshare-project/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `bikeshare/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook bikeshare-project.ipynb
+ipython notebook bikeshare.ipynb
 ```  
 or
 ```bash
-jupyter notebook bikeshare-project.ipynb
+jupyter notebook bikeshare.ipynb
 ```
 
 This will open the iPython Notebook software and project file in your browser.
