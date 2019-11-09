@@ -14,14 +14,14 @@ Install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python di
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `bikeshare-project/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook finding_donors.ipynb
+ipython notebook bikeshare-project.ipynb
 ```  
 or
 ```bash
-jupyter notebook finding_donors.ipynb
+jupyter notebook bikeshare-project.ipynb
 ```
 
 This will open the iPython Notebook software and project file in your browser.
